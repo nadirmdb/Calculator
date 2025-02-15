@@ -1,7 +1,7 @@
 # Calculator
-This is a lightweight and user-friendly calculator built using HTML, CSS, and JavaScript.
 
 Description:
+
 This is a lightweight and user-friendly calculator built using HTML, CSS, and JavaScript. The project demonstrates the fundamentals of front-end web development, including DOM manipulation, event handling, and basic arithmetic operations. The calculator supports basic operations like addition, subtraction, multiplication, and division, as well as clearing the display and deleting the last digit.
 
 Features:
